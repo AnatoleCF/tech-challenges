@@ -1,4 +1,5 @@
-using System.Numerics;
+using System.Collections.Generic;
+using UnityEngine;
 
 namespace IWD.FixtureChallenge.Fixture
 {
@@ -7,6 +8,7 @@ namespace IWD.FixtureChallenge.Fixture
 		public float x = default;
 		public float y = default ;
 		public float z = default;
+
 
 		public Vector3 Position
 		{
