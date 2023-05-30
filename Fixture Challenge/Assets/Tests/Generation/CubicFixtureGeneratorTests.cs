@@ -13,7 +13,7 @@ namespace IWD.FixtureChallenge.Generation.Tests
 		{
 			// Arrange
 			var fixture = new MockCubicFixture();
-			var parent = new GameObject().transform; // Create a new parent GameObject
+			var parent = new GameObject().transform;
 
 			var mockGenerator = ScriptableObject.CreateInstance<MockCubicFixtureGenerator>();
 			mockGenerator.MockElementGenerator = ScriptableObject.CreateInstance<MockCubicElementGenerator>();
