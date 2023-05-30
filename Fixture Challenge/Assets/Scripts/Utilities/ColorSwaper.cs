@@ -1,6 +1,4 @@
 using IWD.FixtureChallenge.Interaction;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class ColorSwaper : MonoBehaviour
