@@ -9,6 +9,8 @@ Therefore, it is hard for me to estimate the theoretical/conception duration, bu
 The whole implementation took me about 5 hours.
 I spent the end of the day redacting this very document (about 2 hours).
 
+*I did not write a lot of comments in the code itself, it seemed "readable enough" to me.
+The few comments I added start with "AC 30/05" if you want to find them easily.*
 
 # Implementation
 
