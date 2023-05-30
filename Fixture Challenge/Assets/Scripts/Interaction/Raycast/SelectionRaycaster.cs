@@ -6,6 +6,14 @@ namespace IWD.FixtureChallenge.Interaction
 	{
 		protected ISelectable currentSelectable = default;
 
+		public ISelectable CurrentSelectable
+		{
+			get
+			{
+				return currentSelectable;
+			}
+		}
+
 		protected override void OnRaycastHit(RaycastHit hit)
 		{
 			ISelectable selectable = hit.collider.GetComponentInParent<ISelectable>();
