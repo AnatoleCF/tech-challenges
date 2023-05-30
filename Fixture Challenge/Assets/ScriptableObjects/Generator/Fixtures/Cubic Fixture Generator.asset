@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92f47d9e8bf083044a45ae22a1b687d9, type: 3}
   m_Name: Cubic Fixture Generator
   m_EditorClassIdentifier: 
-  _CubicElementGenerator: {fileID: 0}
+  _CubicElementGenerator: {fileID: 11400000, guid: 7072149ba6005344b9cd625f7c648ab4, type: 2}
